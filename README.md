@@ -1,1 +1,1 @@
-# cybersecurity-cloud-operating-model
+# Cloud Operating Model
